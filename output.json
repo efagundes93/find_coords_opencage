@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1231,
+        "street": "Guarani",
+        "number": "618",
+        "city": "Quintão",
+        "state": "RS",
+        "lat": -30.3300488,
+        "long": -50.2694287
+    },
+    {
+        "id": 23232,
+        "street": "R. José Fernando da Silva",
+        "number": "125",
+        "city": "Porto Alegre",
+        "state": "RS",
+        "lat": -30.0798018,
+        "long": -51.1701603
+    }
+]
